@@ -1,6 +1,10 @@
 gopsutil: psutil for golang
 ==============================
 
+.. image:: https://badges.production.guardrails.io/moul/gopsutil.svg
+   :alt: GuardRails badge
+   :target: https://www.guardrails.io
+
 .. image:: https://circleci.com/gh/shirou/gopsutil.svg?&style=shield
         :target: https://circleci.com/gh/shirou/gopsutil
 
